@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">手機內建 Intent 範例</string>
+    <string name="title">手機內建 Intent 範例</string>
+    <string name="open_chrome">開啟瀏覽器</string>
+    <string name="open_camera">開啟相機</string>
+    <string name="open_map">開啟地圖</string>
+    <string name="open_photo">開啟相簿</string>
+    <string name="call">撥打電話</string>
+    <string name="enter_phone_number">輸入要撥打的電話號碼</string>
+</resources>
